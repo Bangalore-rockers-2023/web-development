@@ -29,12 +29,20 @@
 
   .aditya {
       color: chocolate;
+      margin-left: 75px;
   }
 
   .rachana {
-      color: blue
+      color: blue;
+      margin-left: 75px;
   }
 
   .sachin {
-      color: darkgreen
+      color: darkgreen;
+      margin-left: 75px;
   }
+.my-para{
+    color:darkred;
+    margin-left: 75px;
+}
+  
